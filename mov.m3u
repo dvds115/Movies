@@ -6,14 +6,14 @@
 #EXTGRP: Aventura
 http://51.81.208.167/gmedia/premier/Black.Widow.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/1teF9hwrtAwgaUfuqz8JWYKkt7R.jpg", Batman The Long Halloween [1]
-#EXTGENRE: Accion
+#EXTGRP: Accion
 #EXTGRP: Ficcion
 http://51.81.208.167/gmedia/premier/Batman.The.Long.Halloween.Part.One.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://www.eluniverso.com/resizer/atYSPqZa94qN3p-r8pCFlOSZW8c=/0x0:1299x1925/452x670/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/IRN2ZUZFANAXVNKJZL62RNJEB4.jpg", Cruella
-#EXTGENRE: Comedia
+#EXTGRP: Comedia
 #EXTGRP: Crimen
 http://51.81.208.167/gmedia/premier/Cruella.2021.lati.mp4
-#EXTINF:0 tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/fast9/posters/01.jpg", Rapido & Furioso 9
-#EXTGENRE: Accion
+#EXTINF:0 tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/fast9/posters/01.jpg", Liga de la Justicia [The Snyder Cut]
+#EXTGRP: Accion
 #EXTGRP: Aventura
-http://51.81.208.167/gmedia/premier/Fast.&amp;.Furious.9.lati.dual.2021.mp4
+http://51.81.208.167/gmedia/premier/Justice.League.The.Snyder.Cut.2021.lati.mp4
