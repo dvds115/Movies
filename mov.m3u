@@ -5,3 +5,5 @@
 https://github.com/dvds115/DowloadIP/raw/main/ARtv/main_portal.m3u8
 #EXTINF:-1 tvg-id="001" tvg-name="" tvg-logo="https://pictures.betaseries.com/films/affiches/es/7525.jpg" group-title="Accion" group-title="Suspenso", Cuatro Hermanos
 http://heinentv.ddns.me:25461/movie/Marzo2020/2020/419.mkv
+#EXTINF:-1 tvg-id="001" tvg-name="" tvg-logo="https://www.dvdsreleasedates.com/posters/300/W/Warning.jpg" group-title="Ficcion" group-title="Suspenso", Warning
+https://servidor-4.tk/Uploads/Ciencia-Ficcion/Warning-2021-lat.mp4
