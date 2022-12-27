@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" tv-test="TV Argentina.m3u"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dvds115/Movies/main/Movies-EPG.xml" tv-test="TV Argentina.m3u"
 
 
 #EXTINF:-1 tvg-id="001" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg" group-title="Accion" group-title="Aventura", Black Widow [Viuda Negra]
