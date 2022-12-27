@@ -3,17 +3,19 @@
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg", Black Widow [Viuda Negra]
 #EXTGENRE: Accion
-#EXTGRP: Aventura
 http://51.81.208.167/gmedia/premier/Black.Widow.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/1teF9hwrtAwgaUfuqz8JWYKkt7R.jpg", Batman The Long Halloween [1]
 #EXTGRP: Accion
-#EXTGRP: Ficcion
 http://51.81.208.167/gmedia/premier/Batman.The.Long.Halloween.Part.One.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://www.eluniverso.com/resizer/atYSPqZa94qN3p-r8pCFlOSZW8c=/0x0:1299x1925/452x670/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/IRN2ZUZFANAXVNKJZL62RNJEB4.jpg", Cruella
 #EXTGRP: Comedia
-#EXTGRP: Crimen
 http://51.81.208.167/gmedia/premier/Cruella.2021.lati.mp4
-#EXTINF:0 tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/fast9/posters/01.jpg", Liga de la Justicia [The Snyder Cut]
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/La_Liga_de_la_Justicia_de_Zack_Snyder-554207771-mmed.jpg", La Liga de la Justicia de Zack Snyder
 #EXTGRP: Accion
-#EXTGRP: Aventura
 http://51.81.208.167/gmedia/premier/Justice.League.The.Snyder.Cut.2021.lati.mp4
+#EXTINF:0 tvg-logo="https://lsf.go.id/wp-content/uploads/2021/06/hitmanswifes2-350x520.jpeg", Duro de Cuidar 2
+#EXTGRP: Accion
+http://51.81.208.167/gmedia/premier/Hitman's.Wife's.Bodyguard.2021.1080P-Dual-Lat-Cine-Calidad.Com.mp4
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/La_casa_de_las_flores_la_pel_cula-543196640-large.jpg", La casa de las flores: La película
+#EXTGRP: Comedia
+http://51.81.208.167/gmedia/premier/La.casa.de.las.flores.la.pel%c3%adcula.2021.lati.mp4
