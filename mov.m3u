@@ -2,7 +2,7 @@
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg", Black Widow [Viuda Negra]
-#EXTGENRE: Accion
+#EXTGRP: Accion
 http://51.81.208.167/gmedia/premier/Black.Widow.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/1teF9hwrtAwgaUfuqz8JWYKkt7R.jpg", Batman The Long Halloween [1]
 #EXTGRP: Accion
