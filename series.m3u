@@ -1,6 +1,55 @@
 #EXTM3U x-tvg-url="" tv-test="TV Argentina.m3u"
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg", Black Widow [Viuda Negra]
-#EXTGRP: Accion
-http://51.81.208.167/gmedia/premier/Black.Widow.2021.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 01] El Señor de Los Anillos
+#EXTGRP: El señor de los anillos - Los Anillos del Poder
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder01.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 02] El Señor de Los Anillos
+#EXTGRP: El señor de los anillos - Los Anillos del Poder
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder02.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 03] El Señor de Los Anillos
+#EXTGRP: El señor de los anillos - Los Anillos del Poder
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder03.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 04] El Señor de Los Anillos
+#EXTGRP: El señor de los anillos - Los Anillos del Poder
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder04.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 05] El Señor de Los Anillos
+#EXTGRP: El señor de los anillos - Los Anillos del Poder
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder.05.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 06] El Señor de Los Anillos
+#EXTGRP: El señor de los anillos - Los Anillos del Poder
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder06.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 07] El Señor de Los Anillos
+#EXTGRP: El señor de los anillos - Los Anillos del Poder
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder07.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 08] El Señor de Los Anillos
+#EXTGRP: El señor de los anillos - Los Anillos del Poder
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.se%c3%b1or.de.los.anillos.Los.anillos.de.poder08.lati.mp4
+
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 01] El juego del calamar
+#EXTGRP: El juego del calamar
+http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.01.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 02] El juego del calamar
+#EXTGRP: El juego del calamar
+http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.02.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 03] El juego del calamar
+#EXTGRP: El juego del calamar
+http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.03.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 04] El juego del calamar
+#EXTGRP: El juego del calamar
+http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.04.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 05] El juego del calamar
+#EXTGRP: El juego del calamar
+http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.05.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 06] El juego del calamar
+#EXTGRP: El juego del calamar
+http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.06.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 07] El juego del calamar
+#EXTGRP: El juego del calamar
+http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.07.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 08] El juego del calamar
+#EXTGRP: El juego del calamar
+http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.08.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 09] El juego del calamar
+#EXTGRP: El juego del calamar
+http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.09.lati.mp4
