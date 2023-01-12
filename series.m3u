@@ -53,3 +53,23 @@ http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calama
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 09] El juego del calamar
 #EXTGRP: El juego del calamar
 http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.09.lati.mp4
+
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 01] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/3271.Moon.Knight.S01E01.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 02] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/16574.Moon.Knight.S01E02.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 03] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/17366.Moon.Knight.S01E03.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 04] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/13710.Moon.Knight.S01E04.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 05] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/15195.Moon.Knight.S01E05.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 06] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/6630.Moon.Knight.S01E06.1080p.WEBRip.Dual.Latino.mkv
+
