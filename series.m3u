@@ -1,1 +1,6 @@
-#EXTM3U
+#EXTM3U x-tvg-url="" tv-test="TV Argentina.m3u"
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg", Black Widow [Viuda Negra]
+#EXTGRP: Accion
+http://51.81.208.167/gmedia/premier/Black.Widow.2021.lati.mp4
