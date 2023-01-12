@@ -73,7 +73,7 @@ http://54.39.52.63/SERIE/moon%20king/15195.Moon.Knight.S01E05.1080p.WEBRip.Dual.
 #EXTGRP: Moon Knight
 http://54.39.52.63/SERIE/moon%20king/6630.Moon.Knight.S01E06.1080p.WEBRip.Dual.Latino.mkv
 
-#EXTINF:-0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 01] 1899
+#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 01] 1899
 #EXTGRP: 1899
 http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E01.mkv
 #EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 02] 1899
@@ -97,4 +97,8 @@ http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E07.mkv
 #EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 08] 1899
 #EXTGRP: 1899
 http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E08.mkv
+
+#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/es-fb-ig-got-anniversary-1080x1350-1617636870.jpg", [Ep 01] Game of Thrones
+#EXTGRP: Juego de Tronos [Game of Thrones]
+https://www310.ff-01.com/token=NGkcJ77oyXQHnPw_S-uWpg/1673578172/45.228.0.0/44/1/28/d5d67eb1dfc59048872b277fea32c281-720p.mp4
 
