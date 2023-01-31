@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="" tv-test="TV Argentina.m3u"
 
-
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VhYjIwMDQtZjY4OS00Yjk2LWI5YjktNjQxOTE0MjE4NjBkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg", Avatar: El sentido del agua
+#EXTGRP: Accion
+http://51.81.208.167/pelis2022/Avatar.El.camino.del.agua.mkv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg", Black Widow [Viuda Negra]
 #EXTGRP: Accion
 http://51.81.208.167/gmedia/premier/Black.Widow.2021.lati.mp4
