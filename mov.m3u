@@ -1300,9 +1300,6 @@ http://51.81.208.167/movies/Anti_Matter_(2016).mkv
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1NDk0NjI4MV5BMl5BanBnXkFtZTgwNjUyNzMwNjM@._V1_FMjpg_UX1000_.jpg", El apóstol
 #EXTGRP: Drama
 http://51.81.208.167/movies/Apostle_(2018).mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_FMjpg_UX1000_.jpg", Aquaman
-#EXTGRP: Accion
-http://51.81.208.167/movies/Aquaman.2018.mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRlOWE3OTYtZTE1Ni00Yjk5LTkxMjQtZTJhMjY5NDkwNjBlXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_FMjpg_UX1000_.jpg", Aquí No Ha Pasado Nada
 #EXTGRP: Drama
 http://51.81.208.167/movies/Aqui_no_paso_nada_(2016).mkv
@@ -1420,4 +1417,120 @@ http://51.81.208.167/movies/Before_Sunset_(2004).mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NzgxODE2NF5BMl5BanBnXkFtZTcwNTI1NTI0OQ@@._V1_.jpg", Antes del anochecer
 #EXTGRP: Romance
 http://51.81.208.167/movies/Before_Midnight_(2013).mp4
-
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU5MjMxYmMtYzY2NS00MDU1LWIwMzAtMzIwYjY5NDIxZjZkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg", El rehén
+#EXTGRP: Accion
+http://51.81.208.167/movies/Beirut.2018.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5ODE4MTY2NV5BMl5BanBnXkFtZTgwMzM2NzEzMDI@._V1_.jpg", Belleza oculta
+#EXTGRP: Romance
+http://51.81.208.167/movies/Belleza_inesperada_(2016).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MzIyMDk5Ml5BMl5BanBnXkFtZTgwMzA5MTA4NDM@._V1_FMjpg_UX1000_.jpg", Benji
+#EXTGRP: Crimen
+http://51.81.208.167/movies/Benji_(2018).mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVjZjEyNDQtMWExNy00Yzk3LWEyM2QtMDBkODBjMDg3NTJjXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg", Cuidado con los extraños
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Better_watch_out_(2016).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBlMzY1MmMtMWUwMS00ODk5LWJiZDUtN2ZmZjJjYTRhMmNhXkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_FMjpg_UX1000_.jpg", Beyond Skyline
+#EXTGRP: Ficcion
+http://51.81.208.167/movies/Beyond_skyline_(2017).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRhMzljOGYtOWE4OC00NDNkLWExZDctNGUxMGIxOTc3M2M5XkEyXkFqcGdeQXVyODEwMDM5NTI@._V1_FMjpg_UX1000_.jpg", Beyond the Sun
+#EXTGRP: Aventura
+http://51.81.208.167/movies/Beyond_the_Sun_(2017).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM1MzBhNDEtZmIxOS00Y2YxLTk0NGMtMGE4MmEyOGI0YmUxXkEyXkFqcGdeQXVyODYwMjg5MTI@._V1_FMjpg_UX1000_.jpg", Un golpe sobrenatural
+#EXTGRP: Accion
+http://51.81.208.167/movies/Beyond_the_edge_(2018).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyMjdlYmUtNjQ1Zi00YTg3LTliNTgtZmNkOTRmYzEzYTMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg", Big Mamma House
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Big.mamma.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZmYTQ3OTktODkzYy00YmQxLTgxMjEtY2ZkZDY4MDYzNDNmXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg", Big Mamma House 2
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Big.mamma2.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU2MTk5NzkzNV5BMl5BanBnXkFtZTcwMjU5MzgwNA@@._V1_FMjpg_UX1000_.jpg", Big Mamma House 3
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Big.mamma3.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg3ODc1ODIzOV5BMl5BanBnXkFtZTgwMzg2NTc3MDE@._V1_FMjpg_UX1000_.jpg", Big bad wolves
+#EXTGRP: Drama
+http://51.81.208.167/movies/Big_Bad_wolves_(2013).mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY4YjRiMGQtMjY1MC00ZTBjLWFiODgtY2MzYjRiYjg0OWU2XkEyXkFqcGdeQXVyNzQ4OTA0NjE@._V1_FMjpg_UX1000_.jpg", Big Fish & Begonia
+#EXTGRP: Fantasia
+http://51.81.208.167/movies/Big_Fish_and_Begonia_(2017).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_FMjpg_UX1000_.jpg", Tres anuncios en las afueras
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Billboards_outside_ebbing_missouri_(2017).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_FMjpg_UX1000_.jpg", Bird box: A ciegas
+#EXTGRP: Terror
+http://51.81.208.167/movies/Bird.box.2018.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5MzgzMjM3OF5BMl5BanBnXkFtZTgwMzQ2MzQwNzM@._V1_FMjpg_UX1000_.jpg", Black Mirror: Bandersnatch
+#EXTGRP: Drama
+http://51.81.208.167/movies/Black_Mirror_Bandersnatch_(2018).mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk1MDgzNTQ3OV5BMl5BanBnXkFtZTgwMzk1NjU1NTM@._V1_.jpg", Operación rescate
+#EXTGRP: Accion
+http://51.81.208.167/movies/Black_Water_(2018).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg", Blade Runner 2049
+#EXTGRP: Accion
+http://51.81.208.167/movies/Blade_runner_2049_(2017).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIwMzgzYzMtYTdiOS00ZjcxLTk1ZTAtM2ExZTVlNmY2NzEyXkEyXkFqcGdeQXVyMTM4NTIzMTM@._V1_FMjpg_UX1000_.jpg", Blanco perfecto (Downrange)
+#EXTGRP: Terror
+http://51.81.208.167/movies/Blanco_perfecto_(2018).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmM3ODEyNTEtNTY0ZS00NWViLWEwODctODRiNjk2YWZjNDZkXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg", Blanka
+#EXTGRP: Drama
+http://51.81.208.167/movies/Blanka_(2015).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdiYWZiOTQtZmQ4My00YWNiLTllMDEtYWQxODFjNjgzNTNiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX1000_.jpg", Bleach: Burîchu
+#EXTGRP: Accion
+http://51.81.208.167/movies/Bleach_(2018).mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNiNWI4YmQtNjc5Ny00Mjk5LWEzYjktM2FjNTQwNjI4ZDdmXkEyXkFqcGdeQXVyNTM2NTY4NzU@._V1_FMjpg_UX1000_.jpg", Bleeding Steel
+#EXTGRP: Ficcion
+http://51.81.208.167/movies/Bleeding_Steel_(2017).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwYTQ4YmEtOTcwYy00NjBlLWI0ZjYtNDM0YmI1OGM0MWY0XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg", Punto ciego
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Blindspotting_(2018).mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2MjAyMDY0NF5BMl5BanBnXkFtZTcwODMwOTY1OQ@@._V1_FMjpg_UX1000_.jpg", Blitz
+#EXTGRP: Accion
+http://51.81.208.167/movies/Blitz_(2011).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0ODIzNjkzMl5BMl5BanBnXkFtZTgwODQ3MzU4NDM@._V1_.jpg", #SexPact
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Blockers_(2018).mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MDgxMDM4OV5BMl5BanBnXkFtZTcwMjY4MTIwNw@@._V1_FMjpg_UX1000_.jpg", Bloodwork
+#EXTGRP: Terror
+http://51.81.208.167/movies/Bloodwork_(2012).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTkzYmFmZWYtZDAxMi00MGY5LWI4NjEtMGVmNjBmNzBjMjAwXkEyXkFqcGdeQXVyMTY5MTQyMzU@._V1_FMjpg_UX1000_.jpg", Boost
+#EXTGRP: Accion
+http://51.81.208.167/movies/Boost_(2016).mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTgxNjI2NjYwMl5BMl5BanBnXkFtZTgwMzcxMTcwNjE@._V1_FMjpg_UX1000_.jpg", BorderCross
+#EXTGRP: Accion
+http://51.81.208.167/movies/BorderCross_(2017).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BODBjZTBlNmEtNzRlNy00MDdmLThlNjMtZjg2MzUwMzhiYzM0XkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg", Borg vs McEnroe
+#EXTGRP: Biografia
+http://51.81.208.167/movies/Borg_vs_McEnroe_(2017).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRjNGFkMDctMDIzOS00ZTI3LTliYTMtMjc5NWQ2N2U2YWMxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UX1000_.jpg", Børning: Más rápido, más peligroso
+#EXTGRP: Accion
+http://51.81.208.167/movies/Borning_Mas_Rapido_Mas_peligroso_(2016).mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM2MzU1NTM4NF5BMl5BanBnXkFtZTgwNTMwMzI1NjM@._V1_FMjpg_UX1000_.jpg", Identidad borrada
+#EXTGRP: Biografia
+http://51.81.208.167/movies/Boy_Erase_(2018).mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ4YjhmNzUtZTI1MC00OTQ3LTk4MTItYWJhNDdmNGZjOWU2XkEyXkFqcGdeQXVyMTA2NjI0MQ@@._V1_FMjpg_UX1000_.jpg", Boyka: Invicto 4
+#EXTGRP: Accion
+http://51.81.208.167/movies/Boyka_Undisputed_(2016).mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMwOGYyOTEtYjc1Mi00MjljLThmNzItNWUyMjJmZDc1ZjhlXkEyXkFqcGdeQXVyMTczMjkzNDY@._V1_.jpg", Qué fue de Brad
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Brads_Status_(2017).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY0OThiYWQtMTAzYi00N2FiLWFlYWUtZDUzYzJiY2RlNjEwXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_FMjpg_UX1000_.jpg", Brain on Fire
+#EXTGRP: Biografia
+http://51.81.208.167/movies/Brain_on_fire_(2016).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1ODUzMTU1NV5BMl5BanBnXkFtZTgwMzcwMzY1NDM@._V1_.jpg", El leñador
+#EXTGRP: Accion
+http://51.81.208.167/movies/Braven_(2018).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UxNzU5ZGYtNzAzZS00YmYwLWJmMWMtMjg5ZmE3YmYzZWNlXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg", A pedazos
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Breakable_You_(2017).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYzMDE5Y2YtZjk2OC00YjI0LWIxNTctMGI4N2Y4MzI3ZTZkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX1000_.jpg", Bring It On: Worldwide #Cheersmack
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Bring_it_on_worldwide_cheersmack_(2016).mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMTY5MTcxOV5BMl5BanBnXkFtZTcwMTI3MDE3Mg@@._V1_FMjpg_UX1000_.jpg", Brothers (Hermanos)
+#EXTGRP: Drama
+http://51.81.208.167/movies/Brothers_(2009).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQ0OTkzODgyNF5BMl5BanBnXkFtZTgwOTA3OTE4MDE@._V1_FMjpg_UX1000_.jpg", Buenos vecinos
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Buenos_vecinos_(2014).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0NzUxMDUzN15BMl5BanBnXkFtZTgwNzI2MTY4ODE@._V1_FMjpg_UX1000_.jpg", Buenos vecinos 2
+#EXTGRP: Comedia
+http://51.81.208.167/movies/Buenos_Vecinos_2_(2016).mp4
