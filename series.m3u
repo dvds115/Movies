@@ -41,8 +41,6 @@ http://vods.tuxchannel.tv/series/chernobyl/s_01_e_04.mkv
 #EXTGRP: Chernobyl
 http://vods.tuxchannel.tv/series/chernobyl/s_01_e_05.mkv
 
-
-
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2IwNWY2YWEtNTU4Ni00MmE2LTljZjItNWQ0NzBlNjJiMzBiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg", Episodio 1
 #EXTGRP: DAHMER- Monstruo: La historia de Jeffrey Dahmer
 http://vods.tuxchannel.tv/series/monster_the_jeffrey_dahmer_story/s_01_e_01.mkv
@@ -73,6 +71,145 @@ http://vods.tuxchannel.tv/series/monster_the_jeffrey_dahmer_story/s_01_e_09.mkv
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2IwNWY2YWEtNTU4Ni00MmE2LTljZjItNWQ0NzBlNjJiMzBiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg", Episodio 10
 #EXTGRP: DAHMER- Monstruo: La historia de Jeffrey Dahmer
 http://vods.tuxchannel.tv/series/monster_the_jeffrey_dahmer_story/s_01_e_10.mkv
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEyMmUyMDUtY2E4ZS00NTMzLWEyNzUtN2U0Mjg3ZmE5MTY1XkEyXkFqcGdeQXVyMTI4MjU4Njc3._V1_.jpg", Episodio 1
+#EXTGRP: El elegido
+http://vods.tuxchannel.tv/series/o_escolhido/s_01_e_01.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEyMmUyMDUtY2E4ZS00NTMzLWEyNzUtN2U0Mjg3ZmE5MTY1XkEyXkFqcGdeQXVyMTI4MjU4Njc3._V1_.jpg", Episodio 2
+#EXTGRP: El elegido
+http://vods.tuxchannel.tv/series/o_escolhido/s_01_e_02.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEyMmUyMDUtY2E4ZS00NTMzLWEyNzUtN2U0Mjg3ZmE5MTY1XkEyXkFqcGdeQXVyMTI4MjU4Njc3._V1_.jpg", Episodio 3
+#EXTGRP: El elegido
+http://vods.tuxchannel.tv/series/o_escolhido/s_01_e_03.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEyMmUyMDUtY2E4ZS00NTMzLWEyNzUtN2U0Mjg3ZmE5MTY1XkEyXkFqcGdeQXVyMTI4MjU4Njc3._V1_.jpg", Episodio 4
+#EXTGRP: El elegido
+http://vods.tuxchannel.tv/series/o_escolhido/s_01_e_04.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEyMmUyMDUtY2E4ZS00NTMzLWEyNzUtN2U0Mjg3ZmE5MTY1XkEyXkFqcGdeQXVyMTI4MjU4Njc3._V1_.jpg", Episodio 5
+#EXTGRP: El elegido
+http://vods.tuxchannel.tv/series/o_escolhido/s_01_e_05.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEyMmUyMDUtY2E4ZS00NTMzLWEyNzUtN2U0Mjg3ZmE5MTY1XkEyXkFqcGdeQXVyMTI4MjU4Njc3._V1_.jpg", Episodio 6
+#EXTGRP: El elegido
+http://vods.tuxchannel.tv/series/o_escolhido/s_01_e_06.mkv
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllZjE1MWEtYTJhZC00MWIyLTliMjEtYzM3ODc4YzQ2MjFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_FMjpg_UX1000_.jpg", Episodio 1
+#EXTGRP: El libro de Boba Fett
+http://vods.tuxchannel.tv/series/the_book_of_boba_fett/s_01_e_01.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllZjE1MWEtYTJhZC00MWIyLTliMjEtYzM3ODc4YzQ2MjFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_FMjpg_UX1000_.jpg", Episodio 2
+#EXTGRP: El libro de Boba Fett
+http://vods.tuxchannel.tv/series/the_book_of_boba_fett/s_01_e_02.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllZjE1MWEtYTJhZC00MWIyLTliMjEtYzM3ODc4YzQ2MjFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_FMjpg_UX1000_.jpg", Episodio 3
+#EXTGRP: El libro de Boba Fett
+http://vods.tuxchannel.tv/series/the_book_of_boba_fett/s_01_e_03.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllZjE1MWEtYTJhZC00MWIyLTliMjEtYzM3ODc4YzQ2MjFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_FMjpg_UX1000_.jpg", Episodio 4
+#EXTGRP: El libro de Boba Fett
+http://vods.tuxchannel.tv/series/the_book_of_boba_fett/s_01_e_04.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllZjE1MWEtYTJhZC00MWIyLTliMjEtYzM3ODc4YzQ2MjFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_FMjpg_UX1000_.jpg", Episodio 5
+#EXTGRP: El libro de Boba Fett
+http://vods.tuxchannel.tv/series/the_book_of_boba_fett/s_01_e_05.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllZjE1MWEtYTJhZC00MWIyLTliMjEtYzM3ODc4YzQ2MjFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_FMjpg_UX1000_.jpg", Episodio 6
+#EXTGRP: El libro de Boba Fett
+http://vods.tuxchannel.tv/series/the_book_of_boba_fett/s_01_e_06.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllZjE1MWEtYTJhZC00MWIyLTliMjEtYzM3ODc4YzQ2MjFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_FMjpg_UX1000_.jpg", Episodio 7
+#EXTGRP: El libro de Boba Fett
+http://vods.tuxchannel.tv/series/the_book_of_boba_fett/s_01_e_07.mkv
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 1
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_01.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 2
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_02.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 3
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_03.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 4
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_04.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 5
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_05.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 6
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_06.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 7
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_07.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 8
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_08.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 9
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_09.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 10
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_10.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 11
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_11.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 12
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_12.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 13
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_01_e_13.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 1 [Temp. 2]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_02_e_01.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 2 [Temp. 2]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_02_e_02.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 3 [Temp. 2]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_02_e_03.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 4 [Temp. 2]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_02_e_04.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 5 [Temp. 2]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_02_e_05.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 6 [Temp. 2]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_02_e_06.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 7 [Temp. 2]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_02_e_07.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 8 [Temp. 2]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_02_e_08.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 1 [Temp. 3]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_03_e_01.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 2 [Temp. 3]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_03_e_02.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 3 [Temp. 3]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_03_e_03.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 4 [Temp. 3]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_03_e_04.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3ZDRlMDQtOGExYi00ZjE2LWFmN2YtNDY5YWIzMjhjOTAxXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg", Episodio 5 [Temp. 3]
+#EXTGRP: El marginal
+http://vods.tuxchannel.tv/series/el_marginal/s_03_e_05.mkv
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc1YjhjMDUtMGMwNi00M2Y0LTg5NDktNzVjNzlhMDQ3ZTczXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_FMjpg_UX1000_.jpg", Episodio 1
+#EXTGRP: El robo del siglo
+http://vods.tuxchannel.tv/series/el_robo_del_siglo/s_01_e_01.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc1YjhjMDUtMGMwNi00M2Y0LTg5NDktNzVjNzlhMDQ3ZTczXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_FMjpg_UX1000_.jpg", Episodio 2
+#EXTGRP: El robo del siglo
+http://vods.tuxchannel.tv/series/el_robo_del_siglo/s_01_e_02.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc1YjhjMDUtMGMwNi00M2Y0LTg5NDktNzVjNzlhMDQ3ZTczXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_FMjpg_UX1000_.jpg", Episodio 3
+#EXTGRP: El robo del siglo
+http://vods.tuxchannel.tv/series/el_robo_del_siglo/s_01_e_03.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc1YjhjMDUtMGMwNi00M2Y0LTg5NDktNzVjNzlhMDQ3ZTczXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_FMjpg_UX1000_.jpg", Episodio 4
+#EXTGRP: El robo del siglo
+http://vods.tuxchannel.tv/series/el_robo_del_siglo/s_01_e_04.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc1YjhjMDUtMGMwNi00M2Y0LTg5NDktNzVjNzlhMDQ3ZTczXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_FMjpg_UX1000_.jpg", Episodio 5
+#EXTGRP: El robo del siglo
+http://vods.tuxchannel.tv/series/el_robo_del_siglo/s_01_e_05.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc1YjhjMDUtMGMwNi00M2Y0LTg5NDktNzVjNzlhMDQ3ZTczXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_FMjpg_UX1000_.jpg", Episodio 6
+#EXTGRP: El robo del siglo
+http://vods.tuxchannel.tv/series/el_robo_del_siglo/s_01_e_06.mkv
 
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", Episodio 1
 #EXTGRP: El señor de los anillos [AP]
