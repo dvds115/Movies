@@ -5,25 +5,25 @@
 #EXTGRP: El señor de los anillos [AP]
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder01.lati.mp4
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 02] El Señor de Los Anillos
-#EXTGRP: El señor de los anillos - Los Anillos del Poder
+#EXTGRP: El señor de los anillos [AP]
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder02.lati.mp4
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 03] El Señor de Los Anillos
-#EXTGRP: El señor de los anillos - Los Anillos del Poder
+#EXTGRP: El señor de los anillos [AP]
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder03.lati.mp4
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 04] El Señor de Los Anillos
-#EXTGRP: El señor de los anillos - Los Anillos del Poder
+#EXTGRP: El señor de los anillos [AP]
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder04.lati.mp4
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 05] El Señor de Los Anillos
-#EXTGRP: El señor de los anillos - Los Anillos del Poder
+#EXTGRP: El señor de los anillos [AP]
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder.05.lati.mp4
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 06] El Señor de Los Anillos
-#EXTGRP: El señor de los anillos - Los Anillos del Poder
+#EXTGRP: El señor de los anillos [AP]
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder06.lati.mp4
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 07] El Señor de Los Anillos
-#EXTGRP: El señor de los anillos - Los Anillos del Poder
+#EXTGRP: El señor de los anillos [AP]
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder07.lati.mp4
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 08] El Señor de Los Anillos
-#EXTGRP: El señor de los anillos - Los Anillos del Poder
+#EXTGRP: El señor de los anillos [AP]
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.se%c3%b1or.de.los.anillos.Los.anillos.de.poder08.lati.mp4
 
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 01] El juego del calamar
@@ -478,3 +478,81 @@ http://51.81.208.167/serie/Juego_de_tronos/Season_08/S08E05.mkv
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg", [T8][Ep 06] Game of Thrones
 #EXTGRP: Game of Thrones [Juego de Tronos]
 http://51.81.208.167/serie/Juego_de_tronos/Season_08/S08E06.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T1][Ep 01] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-06_202110/capitulo%2001.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T1][Ep 02] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-06_202110/capitulo%2002.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T1][Ep 03] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-06_202110/capitulo%2003.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T1][Ep 04] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-06_202110/capitulo%2004.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T1][Ep 05] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-06_202110/capitulo%2005.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T1][Ep 06] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-06_202110/capitulo%2006.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T1][Ep 07] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-06_202110/capitulo%2007.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T1][Ep 08] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-06_202110/capitulo%2008.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T3][Ep 01] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-08/capitulo%2001.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T3][Ep 02] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-08/capitulo%2002.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T3][Ep 03] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-08/capitulo%2003.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T3][Ep 04] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-08/capitulo%2004.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T3][Ep 05] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-08/capitulo%2005.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T3][Ep 06] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-08/capitulo%2006.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T3][Ep 07] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-08/capitulo%2007.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T3][Ep 08] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/capitulo-08/capitulo%2008.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T4][Ep 01] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/07_20220623_20220623/01.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T4][Ep 02] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/07_20220623_20220623/02.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T4][Ep 03] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/07_20220623_20220623/03.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T4][Ep 04] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/07_20220623_20220623/04.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T4][Ep 05] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/07_20220623_20220623/05.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T4][Ep 06] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/07_20220623_20220623/06.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T4][Ep 07] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/07_20220623_20220623/07.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T4][Ep 08] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/09_20220701_202207/08.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T4][Ep 09] Stranger Things
+#EXTGRP: Stranger Things
+https://archive.org/download/09_20220701_202207/09.mp4
