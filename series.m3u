@@ -1,5 +1,29 @@
 #EXTM3U x-tvg-url="" tv-test="TV Argentina.m3u"
 
+#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 01] 1899
+#EXTGRP: 1899
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E01.mkv
+#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 02] 1899
+#EXTGRP: 1899
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E02.mkv
+#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 03] 1899
+#EXTGRP: 1899
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E03.mkv
+#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 04] 1899
+#EXTGRP: 1899
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E04.mkv
+#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 05] 1899
+#EXTGRP: 1899
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E05.mkv
+#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 06] 1899
+#EXTGRP: 1899
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E06.mkv
+#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 07] 1899
+#EXTGRP: 1899
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E07.mkv
+#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 08] 1899
+#EXTGRP: 1899
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E08.mkv
 
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/04/16/26/1929878.jpg", [Ep 01] El Señor de Los Anillos
 #EXTGRP: El señor de los anillos [AP]
@@ -26,241 +50,6 @@ http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.
 #EXTGRP: El señor de los anillos [AP]
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.se%c3%b1or.de.los.anillos.Los.anillos.de.poder08.lati.mp4
 
-#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 01] El juego del calamar
-#EXTGRP: El juego del calamar
-http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.01.lati.mp4
-#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 02] El juego del calamar
-#EXTGRP: El juego del calamar
-http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.02.lati.mp4
-#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 03] El juego del calamar
-#EXTGRP: El juego del calamar
-http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.03.lati.mp4
-#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 04] El juego del calamar
-#EXTGRP: El juego del calamar
-http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.04.lati.mp4
-#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 05] El juego del calamar
-#EXTGRP: El juego del calamar
-http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.05.lati.mp4
-#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 06] El juego del calamar
-#EXTGRP: El juego del calamar
-http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.06.lati.mp4
-#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 07] El juego del calamar
-#EXTGRP: El juego del calamar
-http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.07.lati.mp4
-#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 08] El juego del calamar
-#EXTGRP: El juego del calamar
-http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.08.lati.mp4
-#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg", [Ep 09] El juego del calamar
-#EXTGRP: El juego del calamar
-http://51.81.208.167/gserie/SERIE2021/el.juego.del.calamar/1/El.juego.del.calamar.09.lati.mp4
-
-#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 01] Moon Knight
-#EXTGRP: Moon Knight
-http://54.39.52.63/SERIE/moon%20king/3271.Moon.Knight.S01E01.1080p.WEBRip.Dual.Latino.mkv
-#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 02] Moon Knight
-#EXTGRP: Moon Knight
-http://54.39.52.63/SERIE/moon%20king/16574.Moon.Knight.S01E02.1080p.WEBRip.Dual.Latino.mkv
-#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 03] Moon Knight
-#EXTGRP: Moon Knight
-http://54.39.52.63/SERIE/moon%20king/17366.Moon.Knight.S01E03.1080p.WEBRip.Dual.Latino.mkv
-#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 04] Moon Knight
-#EXTGRP: Moon Knight
-http://54.39.52.63/SERIE/moon%20king/13710.Moon.Knight.S01E04.1080p.WEBRip.Dual.Latino.mkv
-#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 05] Moon Knight
-#EXTGRP: Moon Knight
-http://54.39.52.63/SERIE/moon%20king/15195.Moon.Knight.S01E05.1080p.WEBRip.Dual.Latino.mkv
-#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 06] Moon Knight
-#EXTGRP: Moon Knight
-http://54.39.52.63/SERIE/moon%20king/6630.Moon.Knight.S01E06.1080p.WEBRip.Dual.Latino.mkv
-
-#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 01] 1899
-#EXTGRP: 1899
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E01.mkv
-#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 02] 1899
-#EXTGRP: 1899
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E02.mkv
-#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 03] 1899
-#EXTGRP: 1899
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E03.mkv
-#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 04] 1899
-#EXTGRP: 1899
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E04.mkv
-#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 05] 1899
-#EXTGRP: 1899
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E05.mkv
-#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 06] 1899
-#EXTGRP: 1899
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E06.mkv
-#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 07] 1899
-#EXTGRP: 1899
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E07.mkv
-#EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1666707992.jpg", [Ep 08] 1899
-#EXTGRP: 1899
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/1899%20(dual)/S01E08.mkv
-
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 01] Halo
-#EXTGRP: Halo
-http://51.81.208.167/series2022/Halo/Halo.101.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 02] Halo
-#EXTGRP: Halo
-http://51.81.208.167/series2022/Halo/Halo.102.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 03] Halo
-#EXTGRP: Halo
-http://51.81.208.167/series2022/Halo/Halo.103.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 04] Halo
-#EXTGRP: Halo
-http://51.81.208.167/series2022/Halo/Halo.104.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 05] Halo
-#EXTGRP: Halo
-http://51.81.208.167/series2022/Halo/Halo.105.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 06] Halo
-#EXTGRP: Halo
-http://51.81.208.167/series2022/Halo/Halo.106.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 07] Halo
-#EXTGRP: Halo
-http://51.81.208.167/series2022/Halo/Halo.107.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 08] Halo
-#EXTGRP: Halo
-http://51.81.208.167/series2022/Halo/Halo.108.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 09] Halo
-#EXTGRP: Halo
-http://51.81.208.167/series2022/Halo/Halo.109.lati.mp4
-
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 01] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E01.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 02] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E02.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 03] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E03.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 04] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E04.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 05] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E05.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 06] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E06.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 07] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E07.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 08] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E08.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 09] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E09.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 10] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E10.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 11] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e01.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 12] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e02.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 13] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e03.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 14] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e04.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 15] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e05.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 16] LVSU
-#EXTGRP: La vida sexual de las universitarias
-http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e06.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 01] La flor mas bella
-#EXTGRP: La flor mas bella
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 02] La flor mas bella
-#EXTGRP: La flor mas bella
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 03] La flor mas bella
-#EXTGRP: La flor mas bella
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 04] La flor mas bella
-#EXTGRP: La flor mas bella
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 05] La flor mas bella
-#EXTGRP: La flor mas bella
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 06] La flor mas bella
-#EXTGRP: La flor mas bella
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E06.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 07] La flor mas bella
-#EXTGRP: La flor mas bella
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 08] La flor mas bella
-#EXTGRP: La flor mas bella
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E08.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 09] La flor mas bella
-#EXTGRP: La flor mas bella
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E09.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 10] La flor mas bella
-#EXTGRP: La flor mas bella
-http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E10.720p.WEBRip.mkv
-
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 01] House of the dragon
-#EXTGRP: House of the Dragon
-http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x01.lati.mp4 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 02] House of the dragon
-#EXTGRP: House of the Dragon
-http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x02.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 03] House of the dragon
-#EXTGRP: House of the Dragon
-http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x03.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 04] House of the dragon
-#EXTGRP: House of the Dragon
-http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x04.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 05] House of the dragon
-#EXTGRP: House of the Dragon
-http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x05.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 06] House of the dragon
-#EXTGRP: House of the Dragon
-http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x06.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 07] House of the dragon
-#EXTGRP: House of the Dragon
-http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x07.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 08] House of the dragon
-#EXTGRP: House of the Dragon
-http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x08.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 09] House of the dragon
-#EXTGRP: House of the Dragon
-http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x09.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 10] House of the dragon
-#EXTGRP: House of the Dragon
-http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x10.lati.mp4
-
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 01] Merlina
-#EXTGRP: Merlina
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_01.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 02] Merlina
-#EXTGRP: Merlina
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_02.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 03] Merlina
-#EXTGRP: Merlina
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_03.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 04] Merlina
-#EXTGRP: Merlina
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_04.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 05] Merlina
-#EXTGRP: Merlina
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_05.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 06] Merlina
-#EXTGRP: Merlina
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_06.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 07] Merlina
-#EXTGRP: Merlina
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_07.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 08] Merlina
-#EXTGRP: Merlina
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_08.mkv
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg", [T1][Ep 01] Game of Thrones
 #EXTGRP: Game of Thrones [Juego de Tronos]
@@ -478,6 +267,189 @@ http://51.81.208.167/serie/Juego_de_tronos/Season_08/S08E05.mkv
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg", [T8][Ep 06] Game of Thrones
 #EXTGRP: Game of Thrones [Juego de Tronos]
 http://51.81.208.167/serie/Juego_de_tronos/Season_08/S08E06.mkv
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 01] Halo
+#EXTGRP: Halo
+http://51.81.208.167/series2022/Halo/Halo.101.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 02] Halo
+#EXTGRP: Halo
+http://51.81.208.167/series2022/Halo/Halo.102.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 03] Halo
+#EXTGRP: Halo
+http://51.81.208.167/series2022/Halo/Halo.103.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 04] Halo
+#EXTGRP: Halo
+http://51.81.208.167/series2022/Halo/Halo.104.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 05] Halo
+#EXTGRP: Halo
+http://51.81.208.167/series2022/Halo/Halo.105.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 06] Halo
+#EXTGRP: Halo
+http://51.81.208.167/series2022/Halo/Halo.106.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 07] Halo
+#EXTGRP: Halo
+http://51.81.208.167/series2022/Halo/Halo.107.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 08] Halo
+#EXTGRP: Halo
+http://51.81.208.167/series2022/Halo/Halo.108.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY5YmJiM2QtNjdhOC00NjRhLTgyNDEtYmM1NmJhNjc5NDE2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX1000_.jpg", [Ep 09] Halo
+#EXTGRP: Halo
+http://51.81.208.167/series2022/Halo/Halo.109.lati.mp4
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 01] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E01.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 02] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E02.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 03] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E03.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 04] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E04.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 05] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E05.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 06] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E06.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 07] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E07.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 08] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E08.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 09] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E09.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 10] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S1/S01E10.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 11] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e01.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 12] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e02.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 13] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e03.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 14] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e04.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 15] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e05.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmOWIyYTUtODcyOC00YzA5LWJhYzQtOGNhNmE4NjVlYjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 16] LVSU
+#EXTGRP: La vida sexual de las universitarias
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/La%20vida%20sexual%20de%20las%20universitarias/S2/s02e06.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 01] La flor mas bella
+#EXTGRP: La flor mas bella
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E01.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 02] La flor mas bella
+#EXTGRP: La flor mas bella
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E02.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 03] La flor mas bella
+#EXTGRP: La flor mas bella
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E03.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 04] La flor mas bella
+#EXTGRP: La flor mas bella
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E04.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 05] La flor mas bella
+#EXTGRP: La flor mas bella
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E05.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 06] La flor mas bella
+#EXTGRP: La flor mas bella
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E06.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 07] La flor mas bella
+#EXTGRP: La flor mas bella
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E07.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 08] La flor mas bella
+#EXTGRP: La flor mas bella
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E08.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 09] La flor mas bella
+#EXTGRP: La flor mas bella
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E09.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU2MjBlNmUtNzM0Ny00NzM2LWJjNDEtODdhZTY5ZTJjOTNlXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_FMjpg_UX1000_.jpg", [Ep 10] La flor mas bella
+#EXTGRP: La flor mas bella
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/La%20flor%20m%c3%a1s%20bella/The.Most.Beautiful.Flower.S01E10.720p.WEBRip.mkv
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 01] House of the dragon
+#EXTGRP: House of the Dragon
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x01.lati.mp4 
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 02] House of the dragon
+#EXTGRP: House of the Dragon
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x02.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 03] House of the dragon
+#EXTGRP: House of the Dragon
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x03.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 04] House of the dragon
+#EXTGRP: House of the Dragon
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x04.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 05] House of the dragon
+#EXTGRP: House of the Dragon
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x05.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 06] House of the dragon
+#EXTGRP: House of the Dragon
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x06.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 07] House of the dragon
+#EXTGRP: House of the Dragon
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x07.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 08] House of the dragon
+#EXTGRP: House of the Dragon
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x08.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 09] House of the dragon
+#EXTGRP: House of the Dragon
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x09.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", [Ep 10] House of the dragon
+#EXTGRP: House of the Dragon
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x10.lati.mp4
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 01] Merlina
+#EXTGRP: Merlina
+http://vods.tuxchannel.tv/series/wednesday/s_01_e_01.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 02] Merlina
+#EXTGRP: Merlina
+http://vods.tuxchannel.tv/series/wednesday/s_01_e_02.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 03] Merlina
+#EXTGRP: Merlina
+http://vods.tuxchannel.tv/series/wednesday/s_01_e_03.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 04] Merlina
+#EXTGRP: Merlina
+http://vods.tuxchannel.tv/series/wednesday/s_01_e_04.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 05] Merlina
+#EXTGRP: Merlina
+http://vods.tuxchannel.tv/series/wednesday/s_01_e_05.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 06] Merlina
+#EXTGRP: Merlina
+http://vods.tuxchannel.tv/series/wednesday/s_01_e_06.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 07] Merlina
+#EXTGRP: Merlina
+http://vods.tuxchannel.tv/series/wednesday/s_01_e_07.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg", [Ep 08] Merlina
+#EXTGRP: Merlina
+http://vods.tuxchannel.tv/series/wednesday/s_01_e_08.mkv
+
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 01] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/3271.Moon.Knight.S01E01.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 02] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/16574.Moon.Knight.S01E02.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 03] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/17366.Moon.Knight.S01E03.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 04] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/13710.Moon.Knight.S01E04.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 05] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/15195.Moon.Knight.S01E05.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/moon_knight_full_poster_a1af18d1.png", [Ep 06] Moon Knight
+#EXTGRP: Moon Knight
+http://54.39.52.63/SERIE/moon%20king/6630.Moon.Knight.S01E06.1080p.WEBRip.Dual.Latino.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg", [T1][Ep 01] Stranger Things
 #EXTGRP: Stranger Things
