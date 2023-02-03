@@ -1536,3 +1536,6 @@ http://51.81.208.167/movies/Buenos_vecinos_(2014).mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0NzUxMDUzN15BMl5BanBnXkFtZTgwNzI2MTY4ODE@._V1_FMjpg_UX1000_.jpg", Buenos vecinos 2
 #EXTGRP: Comedia
 http://51.81.208.167/movies/Buenos_Vecinos_2_(2016).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMwODg0NDY1Nl5BMl5BanBnXkFtZTcwMjkwNTgyMg@@._V1_.jpg", Up
+#EXTGRP: Fantasia
+http://vod.tuxchannel.mx/peliculas/720/up.mkv
