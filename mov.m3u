@@ -1,14 +1,13 @@
-#EXTM3U x-tvg-url="" tv-test="TV Argentina.m3u"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dvds115/Movies/main/mov.m3u" tv-test="mov.m3u"
+
+
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VhYjIwMDQtZjY4OS00Yjk2LWI5YjktNjQxOTE0MjE4NjBkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg", Avatar: El sentido del agua
 #EXTGRP: Accion
 http://51.81.208.167/pelis2022/Avatar.El.camino.del.agua.mkv
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg", Black Widow [Viuda Negra]
-#EXTGRP: Accion
-http://51.81.208.167/gmedia/premier/Black.Widow.2021.lati.mp4
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/1teF9hwrtAwgaUfuqz8JWYKkt7R.jpg", Batman The Long Halloween [1]
-#EXTGRP: Accion
-http://51.81.208.167/gmedia/premier/Batman.The.Long.Halloween.Part.One.2021.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFmYTNlNDYtYjEwZi00MThjLTlmYjUtNzNmMDI2NWJkMDJjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", My Hero Academia: Misión Mundial de Héroes
+#EXTGRP: Anime
+http://51.81.208.167/pelis2022/My.Hero.Academia.Mision.mundial.de.heroes.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIwYzA4YTAtYTMwYy00NzA3LWFmZGQtYWY3MTNlMGM3NDc5XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_FMjpg_UX1000_.jpg", Perdidos en el Ártico
 #EXTGRP: Aventura
 http://144.217.180.205/Peliculas/Ficcion/Arctic%20Void.mp4
@@ -21,6 +20,48 @@ http://51.81.208.167/pelis2022/House.Of.Gucci.2021.1080p.dual-lat.mitorrent.org.
 #EXTINF:0 tvg-logo="https://www.eluniverso.com/resizer/atYSPqZa94qN3p-r8pCFlOSZW8c=/0x0:1299x1925/452x670/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/IRN2ZUZFANAXVNKJZL62RNJEB4.jpg", Cruella
 #EXTGRP: Comedia
 http://51.81.208.167/gmedia/premier/Cruella.2021.lati.mp4
+#EXTINF:0 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/09/10/0237859.jpg", Tras la pista del asesino
+#EXTGRP: Crimen
+http://51.81.208.167/gmedia/premier/Midnight.in.the.Switchgrass.2021.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjgzNjQxMzQtMTYxMy00YWQ2LThlMjAtZTgwMDIxZWE5ZjIzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", 13 Lives [Trece Vidas]
+#EXTGRP: Drama
+http://51.81.208.167/pelis2022/13.lives.2022.lati.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZlNzk3YzctNzU5OC00NmQ4LTk4OTgtOWJjYjgyYzViMDQzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX1000_.jpg", Alex y yo
+#EXTGRP: Familiar
+http://51.81.208.167/movies/Alex%20y%20yo%20(2018).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIzNmFiY2ItMjNiOC00NTE0LTg0OTgtZTc4ZDA5MjhiMTJhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", El gato con botas: el último deseo
+#EXTGRP: Fantasia
+http://144.217.180.205/Peliculas/Animada/15888.Puss.in.Boots.The.Last.Wish.2022.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU5MmY0ZjctYTNlOS00MDIyLWJkZTAtNzBiOTkyNWI5MGY2XkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_.jpg", Infinito
+#EXTGRP: Ficcion
+http://51.81.208.167/EXTRENO/Infinite.2021.1080p-dual-lat-cinecalidad.mx.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZhNDM0MGItYjIwYS00NTMzLWIxYmUtZjIwM2Q4NDhjY2EyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg", Una cita con el pasado [All the Old Knives]
+#EXTGRP: Misterio
+http://51.81.208.167/pelis2022/All.the.Old.Knives.2022.lati.mp4
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3bbeb9fb5f74fdc1029cec234abeb53a8c58ca30b7ca5189627d8629df87edcd._RI_V_TTW_.jpg", Kally's Mashup ¡Un cumpleaños muy Kally!
+#EXTGRP: Musical
+http://51.81.208.167/EXTRENO/Kally's.mashup.un.cumplea%c3%b1os.muy.kally.2021.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY3ODJmNDItZjZmZS00YmRhLTgzMGItZWUxMmQ4Njg1Y2FhXkEyXkFqcGdeQXVyNjY2OTEyNDM@._V1_.jpg", Hard Luck Love Song
+#EXTGRP: Romance
+http://54.39.52.63/PELICULA/ZEUS%20TEAM/Hard.Luck.Love.Song.2021.1080p.dual-lat.cinecalidad.lol.mp4
+#EXTINF:0 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/02/23/01/06/1196618.png", Desesperada
+#EXTGRP: Suspenso
+http://vod.tuxchannel.mx/peliculas/720/the%20desperate%20hour%202021.mkv
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/43bb6715318830cbee31c053f07e9b95588e3beebc75aace775780c072760003._RI_V_TTW_.jpg", Match: Cita con el miedo [Bad Match]
+#EXTGRP: Terror
+http://54.39.52.63/PELICULA/ZEUS%20TEAM/Cita%20con%20el%20Miedo%20(2017).MKV
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUwOTAyZWQtN2M4Mi00NDAyLTg0MTUtZTM5ZTNhNWFiZTE0XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg", Jinetes Desesperados [Desperate Riders]
+#EXTGRP: Western
+http://51.81.208.167/pelis2022/Desperate.Riders.2022.lati.mp4
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg", Black Widow [Viuda Negra]
+#EXTGRP: Accion
+http://51.81.208.167/gmedia/premier/Black.Widow.2021.lati.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/1teF9hwrtAwgaUfuqz8JWYKkt7R.jpg", Batman The Long Halloween [1]
+#EXTGRP: Accion
+http://51.81.208.167/gmedia/premier/Batman.The.Long.Halloween.Part.One.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/26/11/58/0870792.jpg", La Liga de la Justicia de Zack Snyder
 #EXTGRP: Accion
 http://51.81.208.167/gmedia/premier/Justice.League.The.Snyder.Cut.2021.lati.mp4
@@ -33,15 +74,9 @@ http://51.81.208.167/gmedia/premier/La.casa.de.las.flores.la.pel%c3%adcula.2021.
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/hxYpYPVerNf8h9cO7mSCPK5wJXe.jpg", La Nueva Cenicienta Superestrella
 #EXTGRP: Comedia
 http://51.81.208.167/gmedia/premier/La.nueva.Cenicienta.Superestrella.2021.lat.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZlNzk3YzctNzU5OC00NmQ4LTk4OTgtOWJjYjgyYzViMDQzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX1000_.jpg", Alex y yo
-#EXTGRP: Familiar
-http://51.81.208.167/movies/Alex%20y%20yo%20(2018).mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY2NjUwODEtMGM5OS00MzhkLWEzYTUtYjkwMjFmNjhiN2FmXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_FMjpg_UX1000_.jpg", Cazafantasmas: Más allá
 #EXTGRP: Aventura
 http://vod.tuxchannel.mx/peliculas/720/ghostbusters%20afterlife%202021.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIzNmFiY2ItMjNiOC00NTE0LTg0OTgtZTc4ZDA5MjhiMTJhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", El gato con botas: el último deseo
-#EXTGRP: Fantasia
-http://144.217.180.205/Peliculas/Animada/15888.Puss.in.Boots.The.Last.Wish.2022.1080p.WEBRip.Dual.Latino.mkv
 #EXTINF:0 tvg-logo="https://purodiseno.lat/wp-content/uploads/2021/06/LUCA-6.jpg", Luca
 #EXTGRP: Fantasia
 http://51.81.208.167/gmedia/premier/Luca.2021.lati.mp4
@@ -63,42 +98,24 @@ http://51.81.208.167/gmedia/premier/Space.Jam.A.New.Legacy.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVhMjRjMDUtOThlZS00ZDEwLWJmM2MtYzA3NmRhMmRkZTA5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg", Clifford: el gran perro rojo
 #EXTGRP: Fantasia
 http://vod.tuxchannel.mx/peliculas/720/clifford%20the%20big%20red%20dog%202021.mkv
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjgzNjQxMzQtMTYxMy00YWQ2LThlMjAtZTgwMDIxZWE5ZjIzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", 13 Lives [Trece Vidas]
-#EXTGRP: Drama
-http://51.81.208.167/pelis2022/13.lives.2022.lati.mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZhMDA2NjgtNGZiMC00NTE1LTk2NjctMWI3ZmZkMjQ1NGVmXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_FMjpg_UX1000_.jpg", 365 Días [3]
 #EXTGRP: Drama
 http://51.81.208.167/pelis2022/365.Days.Part.III.2022.lati.mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ1OGY4OTYtZTE4OS00YzljLTlhODAtZTc1ZDU3MWM3NzQ5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg", Deep [Sueño Mortal]
 #EXTGRP: Ficcion
 http://51.81.208.167/gmedia/premier/Deep.2021.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZhNDM0MGItYjIwYS00NTMzLWIxYmUtZjIwM2Q4NDhjY2EyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg", Una cita con el pasado [All the Old Knives]
-#EXTGRP: Misterio
-http://51.81.208.167/pelis2022/All.the.Old.Knives.2022.lati.mp4
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3bbeb9fb5f74fdc1029cec234abeb53a8c58ca30b7ca5189627d8629df87edcd._RI_V_TTW_.jpg", Kally's Mashup ¡Un cumpleaños muy Kally!
-#EXTGRP: Musical
-http://51.81.208.167/EXTRENO/Kally's.mashup.un.cumplea%c3%b1os.muy.kally.2021.mp4
-#EXTINF:0 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/02/23/01/06/1196618.png", Desesperada
-#EXTGRP: Suspenso
-http://54.39.52.63/PELICULA/ZEUS%20TEAM/Desesperada%20(2021).MKV
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjVlZTJlMjYtZDJjMC00YmIzLWJhOWEtYmMzMDk1YTJhYzU1XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_FMjpg_UX1000_.jpg", La casa sobre el pantano
 #EXTGRP: Terror
-http://54.39.52.63/PELICULA/ZEUS%20TEAM/A.House.on.the.Bayou.(2021).1080p.dual.lat.cinecalidad.lol.mp4
+http://vod.tuxchannel.mx/peliculas/720/a%20house%20on%20the%20bayou%202021.mkv
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQwMmMyMWYtMGM2NS00NTJiLTg4YWYtM2E2NGIyMmMwZDhmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", El regreso a casa de Madea
 #EXTGRP: Comedia
-http://54.39.52.63/PELICULA/ZEUS%20TEAM/A.Madea.Homecoming.(2022).1080p.dual.lat.cinecalidad.lol.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU1ZWFjMDgtMmI1MC00Yjg5LThlYzktOGIzNDg2Yzg3YjE1XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_.jpg", Refugiado americano [American Refugee]
-#EXTGRP: Terror
-http://54.39.52.63/PELICULA/ZEUS%20TEAM/American.Refugee.(2021).1080p.dual.lat.cinecalidad.lol.mp4
-#EXTINF:0 tvg-logo="https://www.nacionrex.com/__export/1658700109312/sites/debate/img/2022/07/24/amor-artificial-pelicula.jpg_314039547.jpg", Amor Artificial [AI Love You]
-#EXTGRP: Romance
-http://54.39.52.63/PELICULA/ZEUS%20TEAM/Amor%20artificial%20(2022)%201080p.dual-lat.cinecalidad.lol.mp4
+http://vod.tuxchannel.mx/peliculas/720/a%20madea%20homecoming%202022.mkv
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RjYjczMzQtNWFiZC00MTRkLWE5ZjMtMjgyODBmNzNjYTc2XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg", Batalla: Freestyle [Battle Freestyle]
 #EXTGRP: Drama
-http://54.39.52.63/PELICULA/ZEUS%20TEAM/Battle.Freestyle.2022.1080p.dual-lat.cinecalidad.lol.mp4
+http://vod.tuxchannel.mx/peliculas/720/battle%20freestyle%202022.mkv
 #EXTINF:0 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/01/17/55/4564289.jpg", El sueño de Nate [Better Nate Than Ever]
 #EXTGRP: Comedia
-http://54.39.52.63/PELICULA/ZEUS%20TEAM/Better.Nate.Than.Ever.2022.1080p.dual-lat.cinecalidad.lol.mp4
+http://vod.tuxchannel.mx/peliculas/720/better%20nate%20than%20ever%202022.mkv
 #EXTINF:0 tvg-logo="https://www.thegate.ca/wp-content/uploads/2021/02/Breaking-News-in-Yuba-County-Poster.jpg", Últimas noticias en Yuba County
 #EXTGRP: Comedia
 http://54.39.52.63/PELICULA/ZEUS%20TEAM/Breaking.News.in.Yuba.County.2021.1080p.dual-lat.cinecalidad.lol.mp4
@@ -108,9 +125,6 @@ http://54.39.52.63/PELICULA/ZEUS%20TEAM/Cari%c3%b1o%20cu%c3%a1nto%20te%20odio%20
 #EXTINF:0 tvg-logo="https://www.ecartelera.com/carteles/16700/16778/001_m.jpg", Dios mío ¡los niños han vuelto! [Chacun chez soi]
 #EXTGRP: Comedia
 http://54.39.52.63/PELICULA/ZEUS%20TEAM/Chacun.Chez.Soi.2021.1080p.dual-lat.cinecalidad.lol.mp4
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/43bb6715318830cbee31c053f07e9b95588e3beebc75aace775780c072760003._RI_V_TTW_.jpg", Match: Cita con el miedo [Bad Match]
-#EXTGRP: Terror
-http://54.39.52.63/PELICULA/ZEUS%20TEAM/Cita%20con%20el%20Miedo%20(2017).MKV
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU4Yzk1NmUtNDU4OC00YzVmLTgwOTUtYTY2NjNmMjY5YjVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg", La matanza de Texas
 #EXTGRP: Terror
 http://vod.tuxchannel.mx/peliculas/720/texas%20chainsaw%20massacre%202022.mkv
@@ -120,6 +134,12 @@ http://54.39.52.63/PELICULA/ZEUS%20TEAM/Cuarentones.2022.1080p.dual-lat.cinecali
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEwNTI2MTItOWNmOS00NWE3LTgyMTctNmZjNjYxY2QxZjY4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg", Die in a Gunfight
 #EXTGRP: Accion
 http://54.39.52.63/PELICULA/ZEUS%20TEAM/Die.in.a.Gunfight.2021.1080p.dual-lat.cinecalidad.lol.mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg", Rápido & Furioso 9
+#EXTGRP: Accion
+http://vod.tuxchannel.mx/peliculas/720/fast%20and%20furious%209%202021.mkv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg", Duna
+#EXTGRP: Accion
+http://vod.tuxchannel.mx/peliculas/720/dune%202021.mkv
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/I/71ZDafDTDyL._RI_.jpg", Caballo soñador [Dream Horse]
 #EXTGRP: Biografia
 http://54.39.52.63/PELICULA/ZEUS%20TEAM/Dream.Horse.2020.1080p.dual-lat.cinecalidad.lol.mp4
@@ -144,9 +164,6 @@ http://54.39.52.63/PELICULA/ZEUS%20TEAM/Furioza.2022.1080p.dual-lat.cinecalidad.
 #EXTINF:0 tvg-logo="https://filmmoduu.com/wp-content/uploads/2021/03/MV5BM2Y4MWY2Y2ItNTEyZC00YTE4LWE0ZWMtMzI2M2E5NmI0MTMyXkEyXkFqcGdeQXVyNDU1NTIxMjA@._V1_UY1200_CR10606301200_AL_.jpg", Hacksaw
 #EXTGRP: Terror
 http://54.39.52.63/PELICULA/ZEUS%20TEAM/Hacksaw.2020.1080p.dual-lat.cinecalidad.lol.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY3ODJmNDItZjZmZS00YmRhLTgzMGItZWUxMmQ4Njg1Y2FhXkEyXkFqcGdeQXVyNjY2OTEyNDM@._V1_.jpg", Hard Luck Love Song
-#EXTGRP: Romance
-http://54.39.52.63/PELICULA/ZEUS%20TEAM/Hard.Luck.Love.Song.2021.1080p.dual-lat.cinecalidad.lol.mp4
 #EXTINF:0 tvg-logo="https://i.blogs.es/25244d/hitman_ver3/450_1000.jpg", Hitman
 #EXTGRP: Accion
 http://vod.tuxchannel.mx/peliculas/720/hitman.mkv
@@ -210,9 +227,6 @@ http://51.81.208.167/gmedia/premier/Good.on.Paper.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/22/10/55/4996970.jpg", Tiburón blanco
 #EXTGRP: Terror
 http://51.81.208.167/gmedia/premier/Great.White.2021.lati.mp4
-#EXTINF:0 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/09/10/0237859.jpg", Tras la pista del asesino
-#EXTGRP: Crimen
-http://51.81.208.167/gmedia/premier/Midnight.in.the.Switchgrass.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://www.ecranlarge.com/uploads/image/001/391/34bmdjkdvrwec3xjjflofq2ibyc-091.jpg", Sin movimientos bruscos
 #EXTGRP: Crimen
 http://51.81.208.167/gmedia/premier/No.Sudden.Move.2021.lati.mp4
@@ -429,9 +443,6 @@ http://51.81.208.167/pelis2022/DC.League.of.Super.Pets.2022.lati.mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBiYzAyOGItNDlkZi00ZWZiLWFlMzgtNDA1NzdjZDA1ZjI2XkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg", El perfumista
 #EXTGRP: Crimen
 http://51.81.208.167/pelis2022/Der.Parfumeur.2022.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUwOTAyZWQtN2M4Mi00NDAyLTg0MTUtZTM5ZTNhNWFiZTE0XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg", Jinetes Desesperados [Desperate Riders]
-#EXTGRP: Western
-http://51.81.208.167/pelis2022/Desperate.Riders.2022.lati.mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWYwYTNkYjAtMTBlMy00YjQ2LTgwM2UtMDEzZWNhZjBhZjBiXkEyXkFqcGdeQXVyMTAxNDU5NDA@._V1_FMjpg_UX1000_.jpg", Devil's Workshop
 #EXTGRP: Terror
 http://51.81.208.167/pelis2022/Devils.Workshop.2022.lati.mp4
@@ -603,9 +614,6 @@ http://51.81.208.167/pelis2022/Mortal.Kombat.Legends.Snow.Blind.2022.lati.mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA1YWEyNTYtN2EzNC00YWM3LThmOWUtY2I3YTA0YjkyZmZjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", El dragón de papá
 #EXTGRP: Fantasia
 http://51.81.208.167/pelis2022/My.Fathers.Dragon.2022.lati.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFmYTNlNDYtYjEwZi00MThjLTlmYjUtNzNmMDI2NWJkMDJjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", My Hero Academia: Misión Mundial de Héroes
-#EXTGRP: Anime
-http://51.81.208.167/pelis2022/My.Hero.Academia.Mision.mundial.de.heroes.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTczM2JhOGMtMmQzOC00ZjgwLTlhNDEtMzU3NDRmMTQzMjM4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg", Mi Polcia
 #EXTGRP: Drama
 http://51.81.208.167/pelis2022/My.Policeman.2022.lati.mp4
@@ -999,9 +1007,6 @@ http://51.81.208.167/EXTRENO/Daisys.Dream.2021.lati.mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU3MGYyYmYtNGIzNC00NzM1LTkxYjYtOTI3YTNkZjE5NTM0XkEyXkFqcGdeQXVyNTk0MTAwMDE@._V1_FMjpg_UX1000_.jpg", Danny Boy
 #EXTGRP: Drama
 http://51.81.208.167/EXTRENO/Danny.boy.2021.1080p-dual-cast-cine-calidad.com.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU5MmY0ZjctYTNlOS00MDIyLWJkZTAtNzBiOTkyNWI5MGY2XkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_.jpg", Infinito
-#EXTGRP: Ficcion
-http://51.81.208.167/EXTRENO/Infinite.2021.1080p-dual-lat-cinecalidad.mx.mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGM2MDQ4OTUtNjI3Mi00OTNiLWJhYmYtOTdiN2JiYTNmN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg", Joe Bell
 #EXTGRP: Biografia
 http://51.81.208.167/EXTRENO/Joe.Bell.mp4
