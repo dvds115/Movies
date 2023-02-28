@@ -1497,7 +1497,7 @@ http://51.81.208.167/movies/Black_Mirror_Bandersnatch_(2018).mkv
 http://51.81.208.167/movies/Black_Water_(2018).mp4
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg", Blade Runner 2049
 #EXTGRP: Accion
-http://51.81.208.167/movies/Blade_runner_2049_(2017).mp4
+http://vod.tuxchannel.mx/peliculas/720/blade%20runner%202049.mkv
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIwMzgzYzMtYTdiOS00ZjcxLTk1ZTAtM2ExZTVlNmY2NzEyXkEyXkFqcGdeQXVyMTM4NTIzMTM@._V1_FMjpg_UX1000_.jpg", Blanco perfecto (Downrange)
 #EXTGRP: Terror
 http://51.81.208.167/movies/Blanco_perfecto_(2018).mp4
@@ -1837,3 +1837,6 @@ http://51.81.208.167/movies/Dios_no_esta_muerto_3_(2018).mkv
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMzMGI2ZjItY2M4MS00NjQwLThiZDQtMGVhODYwYzQ5NzkyXkEyXkFqcGdeQXVyNDI1MTgwODU@._V1_FMjpg_UX1000_.jpg", Dirty Lies
 #EXTGRP: Accion
 http://51.81.208.167/movies/Dirty_Lies_(2016).mp4
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMzMGI2ZjItY2M4MS00NjQwLThiZDQtMGVhODYwYzQ5NzkyXkEyXkFqcGdeQXVyNDI1MTgwODU@._V1_FMjpg_UX1000_.jpg", Dirty Lies
+#EXTGRP: Accion
+http://51.81.208.167/movies/Disnay_zombies_(2018).mp4
